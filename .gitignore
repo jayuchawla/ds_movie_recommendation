@@ -1,5 +1,5 @@
 *.zip
 *.pyc
-__pycache__
 *.pkl
+__pycache__
 /m_r/
