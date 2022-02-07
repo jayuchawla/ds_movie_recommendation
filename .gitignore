@@ -1,5 +1,6 @@
 *.zip
 *.pyc
-__pycache__
 *.pkl
+__pycache__
+venv
 /m_r/
