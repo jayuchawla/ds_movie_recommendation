@@ -1,3 +1,5 @@
 *.zip
 *.pyc
+*.pkl
 __pycache__
+/m_r/
